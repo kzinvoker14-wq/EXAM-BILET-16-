@@ -14,6 +14,6 @@ public class JsonSettingsStorage : ISettingsStorage
 
     public void Save(Dictionary<string, object> settings)
     {
-        // Сохранение в JSON (упрощено для экзамена)
+        
     }
 }
